@@ -7,8 +7,9 @@
 <details>
   <summary><b>My Cool Repos:</b></summary>
   
-  [Dungeoar](https://github.com/Dungeoar/Dungeoar)
-  [Moss](https://github.com/Double-Door-Refrigerator)
+  [arcs](https://github.com/callmeclover/arcs)
 </details>
 
+  gonna delete a few repos
+  
 </div>
