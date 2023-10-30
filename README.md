@@ -28,7 +28,6 @@
   
   [eoaswfeig](https://github.com/callmeclover/example-of-a-sketchy-website-for-education-i-guess)
   
-  [python test](https://github.com/callmeclover/Python-Test)
   
 </details>
   
@@ -44,7 +43,8 @@
   [STB](https://github.com/callmeclover/Sumer-TB)
     
   [hydro](https://github.com/callmeclover/hydro-power-project)
-    
+
+  [enlightenment](https://github.com/callmeclover/enlightenment-mini-project)
 </details>
   
 </div>
